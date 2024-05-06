@@ -1,0 +1,77 @@
+body{background-color: rgb(252, 249, 249);
+     width: 100%;
+   
+   
+   background-image: url(https://www.maybelline.es/-/media/project/loreal/brand-sites/mny/emea/iberic/tips-and-trends/hot-news-belleza/las-5-reglas-de-tu-maquillaje-de-noche/08-maybelline-rostro-bronceado-labios-frambuesa.jpg?rev=4bfa3060231b4b5982dc8a642be078f7)
+  }
+
+
+    nav {
+        float: left;
+      }
+
+      nav ul {
+        list-style: none;
+        overflow: hidden; 
+      }
+
+      nav ul li {
+        float: left;
+        font-family: Arial, Helvetica, sans-serif;;
+        font-size: 20px;}
+
+        nav ul li a {
+            display: block; 
+            padding: 20px;
+            color: #ffffff;
+            text-decoration: none;
+           
+          }
+         
+
+          nav ul li:hover {
+            background: #614444;}
+
+        #logo{ width: 90px;
+            height: 90px;
+           text-align: left;
+        padding-left: 500px;}
+
+        #bienvenida{ font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 50px;
+    color: #ffffff;
+text-align: center;}
+
+
+
+.card{
+  background-color: #ffffff;
+  height: 300px;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 50px;
+  width: 200px;
+  display:inline-block;
+}
+.card:hover{ box-shadow: 0 8px 16px 0 rgba(27, 27, 27, 0.2);}
+.imagenc{ 
+  width: 200px;
+  height: 200px;
+  border-radius: 8px 8px 8px 8px;}
+
+  .container {
+    padding: 1px 10 0 0px;
+  }
+.boton1{ border-radius: 5px;
+background-color: rgb(109, 119, 206);
+border: 0;}
+.sociales{
+  width: 50px;
+  height: 50px;
+}
+#redes{
+  font-family: monospace;
+  text-align: center;}
+p{
+  color: white;
+}
